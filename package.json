@@ -1,0 +1,27 @@
+{
+  "name": "raider",
+  "version": "0.0.2",
+  "description": "A simple module for generating sprint names",
+  "main": "./lib/index.js",
+  "bin" : {
+    "sprint-name" : "./lib/cli.js"
+  },
+  "dependencies": {
+    "lodash": "^4.13.1"
+  },
+  "devDependencies": {
+    "ava": "^0.15.1"
+  },
+  "scripts": {
+    "test": "ava"
+  },
+  "author": "Michael Krone <michael.krone@outlook.de>",
+  "license": "ISC",
+  "maintainers": [
+    {
+      "name": "michaelkrone",
+      "email": "michael.krone@live.de"
+    }
+  ],
+  "directories": {}
+}
