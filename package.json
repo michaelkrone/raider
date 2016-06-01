@@ -1,6 +1,6 @@
 {
   "name": "raider",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "A simple module for generating sprint names",
   "main": "./lib/index.js",
   "bin": {
