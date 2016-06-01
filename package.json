@@ -23,5 +23,9 @@
       "email": "michael.krone@live.de"
     }
   ],
+  "repository" :{
+	  "type" : "git",
+	  "url" : "https://github.com/michaelkrone/raider.git"
+  },
   "directories": {}
 }
