@@ -1,6 +1,6 @@
 {
   "name": "raider",
-  "version": "0.1.2",
+  "version": "0.2.0",
   "description": "A simple module for generating mostly grumpy animal alliterations for sprint names",
   "main": "./lib/index.js",
   "bin": {
