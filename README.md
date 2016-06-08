@@ -10,7 +10,7 @@ npm i -g raider
 ## Usage
 
 ```bash
-sprint-name [character] [--adverb]
+sprint-name [character] [--adverb] [--mood=[utopic|realistic]]
 ```
 
 ## Example Output
@@ -26,6 +26,13 @@ sprint-name [character] [--adverb]
 ## `sprint-name --adverb`
 * Hopelessly Hostile Hamster
 * Unaccountably Untidy Unicorn
+
+## `sprint-name --mood=utopic`
+* Dependable Dolphin
+* Vigilant Vulture
+
+## `sprint-name c --mood=utopic`
+* Classy Capuchin
 
 ## `sprint-name c --adverb`
 * Clearly Corrupt Cheetah
