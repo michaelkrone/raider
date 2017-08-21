@@ -223,7 +223,7 @@ webpackJsonp([2],{
 	})(exports.AdverbParam || (exports.AdverbParam = {}));
 	var AdverbParam = exports.AdverbParam;
 	;
-	var host = 'http://raider.doneright.de';
+	var host = 'https://hook.io/hendrichbenjamin/raider';
 	var Raider = (function () {
 	    function Raider(http) {
 	        this.http = http;
